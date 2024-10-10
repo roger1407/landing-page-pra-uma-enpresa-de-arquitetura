@@ -1,4 +1,4 @@
-# landing-page
+# landing-page pra uma enpresa de arquitetura
 # link do site disponibilizado
 https://desafio-lending-page.netlify.app/
 # link da planilha de registro de informações
