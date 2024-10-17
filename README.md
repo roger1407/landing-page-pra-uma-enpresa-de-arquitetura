@@ -32,5 +32,6 @@ https://docs.google.com/spreadsheets/d/1mxHUQGP_ownoaUykUNN5Qogfr5HzbH7lwkYJGlLS
 
 ###
 ### versão desktop
+![Capturar](https://github.com/user-attachments/assets/2175963e-d337-4e05-9e7b-5bc439045b08)
 ![Capturar](https://github.com/user-attachments/assets/6d0c2caf-b863-48d7-8398-ae6fba7f9c76)
 
